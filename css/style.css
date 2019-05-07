@@ -171,6 +171,10 @@ a:active {
   max-width: 960px;
 }
 
+.primary-content {
+  margin-top: 5rem;
+}
+
 .portfolio {
   color: solid black;
   font-size: 1.5em;
