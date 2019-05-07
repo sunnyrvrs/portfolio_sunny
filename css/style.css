@@ -119,6 +119,7 @@ a:active {
 .intro {
   font-size: 1.25em; /* 20px/16px */
   line-height: 1.6;
+  margin-top: 10rem;
 }
 
 .primary-content,
@@ -252,6 +253,7 @@ a:active {
   }
   .intro {
     font-size: 1.1rem;
+    margin-top: 10rem;
   }
   .resorts,
   .tips {
